@@ -1,5 +1,7 @@
 package com.tutorialsninja.base;
 
-public class BaseTest {
+import org.openqa.selenium.WebDriver;
 
+public class BaseTest {
+	private WebDriver driver;
 }
