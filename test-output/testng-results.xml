@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-19T14:19:47 IST" name="Default suite" finished-at="2025-02-19T14:20:02 IST" duration-ms="14939">
+  <suite started-at="2025-04-25T23:31:14 IST" name="Default suite" finished-at="2025-04-25T23:31:25 IST" duration-ms="10408">
     <groups>
     </groups>
-    <test started-at="2025-02-19T14:19:47 IST" name="Default test" finished-at="2025-02-19T14:20:02 IST" duration-ms="14939">
+    <test started-at="2025-04-25T23:31:14 IST" name="Default test" finished-at="2025-04-25T23:31:25 IST" duration-ms="10408">
       <class name="com.tutorialsninja.testcases.LoginTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.testcases.LoginTest@6337c201]" started-at="2025-02-19T14:19:47 IST" name="setup" finished-at="2025-02-19T14:20:01 IST" duration-ms="14435" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.testcases.LoginTest@7ef27d7f]" started-at="2025-04-25T23:31:14 IST" name="setup" finished-at="2025-04-25T23:31:24 IST" duration-ms="9944" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:0, instance:com.tutorialsninja.testcases.LoginTest@6337c201]" started-at="2025-02-19T14:20:01 IST" name="loginTest" finished-at="2025-02-19T14:20:01 IST" duration-ms="17" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.tutorialsninja.testcases.LoginTest@7ef27d7f]" started-at="2025-04-25T23:31:24 IST" name="loginTest" finished-at="2025-04-25T23:31:24 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.testcases.LoginTest@6337c201]" started-at="2025-02-19T14:20:01 IST" name="tearDown" finished-at="2025-02-19T14:20:02 IST" duration-ms="405" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.testcases.LoginTest@7ef27d7f]" started-at="2025-04-25T23:31:24 IST" name="tearDown" finished-at="2025-04-25T23:31:25 IST" duration-ms="402" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
